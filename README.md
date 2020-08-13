@@ -13,8 +13,8 @@ Teacher selects the particular subject and records the attendance datewise.
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-# **View Attendance**
-After logging in the attendance can be seen by both teacher and students.
+# **View Attendance**<p>&nbsp;</p><p>&nbsp;</p>
+After logging in the attendance can be seen by both teacher and students.<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 <p>&nbsp;</p>
 
