@@ -1,5 +1,5 @@
 # **Attendance-Management-System**
-Attendance management system helps to record and display attendace of students subjectwise and datewise.
+<b>Attendance management system helps to record and display attendace of students subjectwise and datewise.</b>
 # **Take Attendance**
 Teacher selects the particular subject and records the attendance datewise.
 
