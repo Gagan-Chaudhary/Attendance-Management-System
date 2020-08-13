@@ -1,12 +1,12 @@
 # Attendance-Management-System
 # **Take Attendance**
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%203.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%204.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%205.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%207.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%208.png)
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%203.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%204.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%205.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%207.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%208.png)<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,14 +16,14 @@
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 <p>&nbsp;</p>
 
-**For Teacher**
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2021.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2022.png)
+<h2>For Teacher</h2>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2021.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2022.png)<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 **For Student**
 
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2032.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2033.png)
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2034.png)
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2032.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2033.png)<p>&nbsp;</p>
+![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2034.png)<p>&nbsp;</p>
 ---------------------------------------------------------------------------------------------------------------
