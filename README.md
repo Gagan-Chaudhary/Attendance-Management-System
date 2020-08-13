@@ -3,10 +3,9 @@
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%203.png)<p>&nbsp;</p>
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%204.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%205.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%207.png)<p>&nbsp;</p>
-![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%208.png)<p>&nbsp;</p>
+
 
 <p>&nbsp;</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------
