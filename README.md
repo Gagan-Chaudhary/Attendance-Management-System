@@ -1,2 +1,3 @@
 # Attendance-Management-System
-# Screenshots
+# Take Attendance
+# View Attendance
