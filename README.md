@@ -1,4 +1,4 @@
-# **<h1 text-align="center">Attendance Management System</h1>**
+# **<h2 text-align="center">Attendance Management System</h2>**
 <b>Attendance management system helps to record and display attendance of students subjectwise and datewise.</b>
 # **Take Attendance**
 Teacher selects the particular subject and records the attendance datewise.
