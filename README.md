@@ -2,6 +2,7 @@
 Attendance management system helps to record and display attendace of students subjectwise and datewise.
 # **Take Attendance**
 Teacher selects the particular subject and records the attendance datewise.
+<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%203.png)<p>&nbsp;</p>
@@ -13,7 +14,7 @@ Teacher selects the particular subject and records the attendance datewise.
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-# **View Attendance**<p>&nbsp;</p><p>&nbsp;</p>
+# **View Attendance**
 After logging in the attendance can be seen by both teacher and students.<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 <p>&nbsp;</p>
