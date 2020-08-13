@@ -1,0 +1,100 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navbar {
+    /* position: sticky; */
+    display: flex;
+    background-color: rgb(119, 107, 107);
+    height: 110px;
+    text-align: center;
+    margin: auto;
+}
+span{
+    font-family: 'Acme', sans-serif;
+    /* margin: 10px; */
+    padding: 10px;
+    text-align: center;
+    
+}
+#head-text{
+    font-weight: bold;
+    font-size: 60px;
+    margin:  auto;
+    padding: 10px;
+    text-shadow: 1px 1px white;
+}
+#head-text:hover{
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #265045;
+    font-family: monospace;
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    text-align: left;
+    }
+    th {
+    background-color: #588c7e;
+    color: white;
+    }
+    tr:nth-child(1) {background-color: #9b7575}
+    tr:last-child{
+        background-color: #ddd8d8
+    }
+    #stu_name{
+        /* font-weight: bold; */
+        font-size: 30px;
+        padding: 20px auto;
+        margin: 15px auto;
+    }
+    span{
+        font-size: 30px;
+        font-family: 'Kanit', sans-serif;
+        
+    }
+.details{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+}    
+#box{
+    padding: 20px;
+    margin: 15px;
+    /* border: 2px solid black; */
+    box-shadow: 0px 2px 3px 10px black;
+}
+#total{
+    color: black;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#button{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.btn{
+    background-color: rgb(30, 31, 19);
+    color: white;
+    padding: 13px;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    
+    border-radius: 4px;
+
+}
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 35px 0px rgb(121, 110, 110);
+    /* color: black; */
+}
