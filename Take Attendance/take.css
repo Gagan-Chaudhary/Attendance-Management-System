@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(158, 155, 155);
+    padding : 0px;
+    margin : 0px;
+}
+
+#navbar {
+    /* position: sticky; */
+    display: flex;
+    background-color: rgb(119, 107, 107);
+    height: 110px;
+    text-align: center;
+    margin: auto;
+}
+#head-text{
+    font-weight: bold;
+    font-size: 60px;
+    margin:  auto;
+    padding: 10px;
+    text-shadow: 1px 1px white;
+}
+#head-text:hover{
+    cursor: pointer;
+}
+span{
+    font-family: 'Kanit', sans-serif;
+    /* margin: 10px; */
+    padding: 10px;
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    margin: 100px auto;
+    height: 450px;
+    width: 1000px;
+    box-shadow: 5px 0px 20px 0px black;
+}
+.container::before{
+    content: '';
+    background: grey;
+    z-index: -1;
+}
+
+#left{
+    
+    text-align:center;
+    
+    width: 40%;
+    background-color: black;
+    color: yellow;
+    
+}  
+#left span{
+    font-size: 50px;
+    padding: 12px;
+    font-weight: bold;
+    margin: 20px auto;
+    font-family: 'Audiowide', cursive;
+    text-shadow: 2px 2px rgb(77, 77, 77);
+}
+
+input{
+    /* text-align: center; */
+    display: block;
+    font-size: 25px;
+    margin: 20px auto;
+    width: 210px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    outline: none;
+    font-weight: bold;
+    border-bottom: dotted black;
+}
+::placeholder{
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+label{
+    margin: 28px 12px;
+    font-weight: bold;
+    font-size: 25px;
+    color:black;
+    text-transform:uppercase;
+    text-emphasis-color: rgb(0, 0, 0);
+    /* width: 40%; */
+    display: block;
+    text-align: center;
+}
+.form-grp{
+    /* border: 2px solid black; */
+    width: 200px;
+    margin: 50px 200px;
+}
+#mid{
+    display: block;
+    width: 35%;
+    background-color: white;
+
+}
+#right{
+    display: block;
+    width: 35%;
+    background-color: white;
+}
+#btn{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 13px;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    margin: 15px;
+    border-radius: 4px;
+}
+#btn:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 35px 0px rgb(121, 110, 110);
+    /* color: black; */
+}
+#btndiv{
+    margin: 32px 20px;
+}
+#leftmid{
+    margin: 130px auto;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h4{
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}

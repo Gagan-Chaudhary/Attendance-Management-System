@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navbar {
+    /* position: sticky; */
+    display: flex;
+    background-color: rgb(119, 107, 107);
+    height: 110px;
+    text-align: center;
+    margin: auto;
+}
+#login{
+    width: 350px;
+    height: auto;
+    border: 2px solid  rgb(235, 242, 255);
+    border-radius: 10px;
+    background-color: rgb(235, 242, 255);
+    display: block;
+    margin: 45px auto;
+    box-shadow: 5px 5px 42px 0px black;
+
+}
+#login::before{
+    content: '';
+    background: rgb(126, 121, 121);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.7;
+    
+}
+#form-text{
+    font-size: 30px;
+    font-weight: bold;
+    /* font-family: fantasy; */
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Bree Serif', serif;
+}
+span{
+    font-family: 'Kanit', sans-serif;
+    /* margin: 10px; */
+    padding: 10px;
+    text-align: center;
+    
+}
+h4{
+    text-align: center;
+    color: rgb(70, 52, 28);
+}
+
+
+::placeholder{
+    
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+    margin: 20px;
+}
+#head-text{
+    font-weight: bold;
+    font-size: 60px;
+    margin:  auto;
+    padding: 10px;
+    text-shadow: 1px 1px white;
+}
+#head-text:hover{
+    cursor: pointer;
+}
+
+input{
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-bottom: .5px solid black;
+    background-color: rgb(235, 242, 255);
+    outline: none;
+ 
+    
+}
+.btn{
+    background-color: rgb(30, 31, 19);
+    color: white;
+    padding: 13px;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    margin: 15px;
+    border-radius: 4px;
+}
+.btn:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 35px 0px rgb(121, 110, 110);
+    /* color: black; */
+}
