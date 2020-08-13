@@ -1,6 +1,6 @@
 # **Attendance-Management-System**
 Attendance management system helps to record and display attendace of students subjectwise and datewise.
-# **Take Attendance**<p>&nbsp;</p>
+# **Take Attendance**
 Teacher selects the particular subject and records the attendance datewise.
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)<p>&nbsp;</p>
