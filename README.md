@@ -1,5 +1,5 @@
 # Attendance-Management-System
 # Take Attendance
-https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # View Attendance
