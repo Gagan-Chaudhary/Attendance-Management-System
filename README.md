@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 
 <h2>For Teacher</h2>
-<p>&nbsp;</p>
+
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2021.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2022.png)<p>&nbsp;</p>
 <p>&nbsp;</p>
