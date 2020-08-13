@@ -1,5 +1,5 @@
 # Attendance-Management-System
-**# Take Attendance**
+# **Take Attendance**
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%202.png)
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%203.png)
@@ -12,7 +12,7 @@
 
 
 
-**# View Attendance**
+# **View Attendance**
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 
 **For Teacher**
