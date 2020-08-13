@@ -15,11 +15,11 @@
 # View Attendance
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%201.png)
 
-For Teacher
+**For Teacher**
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2021.png)
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2022.png)
 
-For Student
+**For Student**
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2032.png)
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2033.png)
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2034.png)
