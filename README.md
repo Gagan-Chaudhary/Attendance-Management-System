@@ -22,7 +22,7 @@
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2022.png)<p>&nbsp;</p>
 <p>&nbsp;</p>
 
-**For Student**
+<h2>For Student</h2>
 
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2032.png)<p>&nbsp;</p>
 ![](https://github.com/Gagan-Chaudhary/Attendance-Management-System/blob/master/Screenshots/Screenshot%2033.png)<p>&nbsp;</p>
