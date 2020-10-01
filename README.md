@@ -1,5 +1,6 @@
 # **<h2 text-align="center">Attendance Management System</h2>**
 <b>Attendance management system helps to record and display attendance of students subjectwise and datewise.</b>
+<b>This portal will help student as well as teacher to get updated with their attendance.</b>
 # **Take Attendance**
 Teacher selects the particular subject and records the attendance datewise.
 
